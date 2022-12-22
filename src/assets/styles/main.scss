@@ -13,7 +13,7 @@
 @tailwind utilities;
 @layer components {
     .btn-naranja {
-        @apply bg-orange-600 text-black font-bold p-3 rounded-lg;
+        @apply bg-[#ff5126] text-black font-bold p-3 rounded-lg;
     }
     .h_2 {
         @apply text-2xl font-extrabold capitalize;
